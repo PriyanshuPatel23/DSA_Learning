@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "ostream": "cpp"
     },
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#2f7c47",
